@@ -19,3 +19,31 @@
   }  
     }
 }
+==========
+pipeline {
+    agent any
+    
+    environment {
+        dotnet ='C:\\Program Files (x86)\\dotnet\\'
+        }
+    stages {  
+  stage('Checkout') {  
+   steps {
+       git credentialsId: '8b95e2b1-79d5-46a6-b1af-e3f780547a14', url: 'https://github.com/RiyaIntech/CoreApi.git', branch: 'master'
+   }  
+  }  
+ stage('Build') {  
+   steps {  
+    bat 'dotnet build D:\\Riya_Documents\\Tutorial\\CICD\\CoreApi\\CoreApi.sln --configuration Release' 
+    //bat 'dotnet build C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\HRMPipelines\\jenkins-demo\\HRM\\HRM.sln --configuration Release'  
+   
+   }  
+  }  
+  stage('Deploy') {
+      steps {
+        sh 'docker build -t coreapi .'
+        sh 'docker run -d -p 5000:80 --name corewebapp coreapi'
+      }
+    }
+    }
+}
