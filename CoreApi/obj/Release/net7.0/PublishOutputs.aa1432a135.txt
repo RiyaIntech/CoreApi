@@ -1,0 +1,12 @@
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\CoreApi.exe
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\CoreApi.dll
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\CoreApi.deps.json
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\CoreApi.runtimeconfig.json
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\CoreApi.pdb
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
