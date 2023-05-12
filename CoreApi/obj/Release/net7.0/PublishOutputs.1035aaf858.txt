@@ -1,0 +1,12 @@
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\CoreApi.exe
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\appsettings.Development.json
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\appsettings.json
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\CoreApi.dll
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\CoreApi.deps.json
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\CoreApi.runtimeconfig.json
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\CoreApi.pdb
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Riya_Documents\Tutorial\CICD\CoreApi\CoreApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

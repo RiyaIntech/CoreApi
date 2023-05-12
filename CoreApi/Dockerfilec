@@ -3,14 +3,16 @@
 FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS base
 WORKDIR /app
 EXPOSE 80
-EXPOSE 443
+# Expose port 5001 for Swagger UI
+EXPOSE 5001
+EXPOSE 5000
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-COPY ["CoreApi/CoreApi.csproj", "CoreApi/"]
-RUN dotnet restore "CoreApi/CoreApi.csproj"
+COPY ["CoreApi.csproj", "."]
+RUN dotnet restore "./CoreApi.csproj"
 COPY . .
-WORKDIR "/src/CoreApi"
+WORKDIR "/src/."
 RUN dotnet build "CoreApi.csproj" -c Release -o /app/build
 
 FROM build AS publish
