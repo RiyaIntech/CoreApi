@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\Riya_Documents\\Tutorial\\CICD\\CoreApi\\CoreApi\\CoreApi.csproj",
         "projectName": "CoreApi",
         "projectPath": "D:\\Riya_Documents\\Tutorial\\CICD\\CoreApi\\CoreApi\\CoreApi.csproj",
-        "packagesPath": "C:\\Users\\272305\\.nuget\\packages\\",
+        "packagesPath": "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\",
         "outputPath": "D:\\Riya_Documents\\Tutorial\\CICD\\CoreApi\\CoreApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\272305\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

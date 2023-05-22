@@ -40,6 +40,10 @@ namespace CoreApi.Controller
                     new Employee()
                 {
                     EmployeeId = 8, EmployeeName = "Nirav Sankesara", Address = "Vijaynagar", Department = "TL"
+                },
+                        new Employee()
+                {
+                    EmployeeId = 9, EmployeeName = "Ritu Shah", Address = "Test", Department = "Test"
                 }
         };
         [HttpGet]
