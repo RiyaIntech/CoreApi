@@ -37,6 +37,10 @@ namespace CoreApi.Controller
                 {
                     EmployeeId = 7, EmployeeName = "Supriya Patel", Address = "Gandhinagar", Department = "TL"
                 },
+                    new Employee()
+                {
+                    EmployeeId = 8, EmployeeName = "Nirav Sankesara", Address = "Vijaynagar", Department = "TL"
+                }
         };
         [HttpGet]
         [Route("GetAllEmployees")]
